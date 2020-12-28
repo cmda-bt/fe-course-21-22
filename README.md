@@ -35,7 +35,8 @@ Each week we discuss a different topic within the field of Front-end development
 * **Week7**: Finalizing team project
 * **Week8**: Assessment 2 (oral test - 50%) grades do not compensate each other 
 
-> Check [`rooster.hva.nl`][class] for exact class dates
+> Check [rooster.hva](http://rooster.hva.nl) for exact class dates
+
 
 ## Synopsis
 
