@@ -21,7 +21,7 @@
 
 ## Program overview
 
-Each week we discuss a different topic within the field of Front-end development (FED).
+Each week we discuss a different topic within the field of Front-end development (FED). You can find the details with respect to homework | topics | resources and more in the week-**number**.md files.
 
 * **Week1**: Getting started || Refresh FED knowledge || Folder structure 
 * **Week2**: Progressive Enhancement || Code Plan || Start writing code for Job story (From Project Tech course)
