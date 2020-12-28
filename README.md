@@ -32,6 +32,8 @@ Each week we discuss a different topic within the field of Front-end development
 * **Week7**: Finalizing team project
 * **Week8**: Assessment 2 (oral test - 50%) grades do not compensate each other 
 
+> Check [`rooster.hva.nl`][class] for exact class dates
+
 ## Synopsis
 
 The course **Frontend** is given at [**@CMDA**][cmda] in 2020 in the third en fourth quarter
@@ -155,7 +157,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
 ## License
 
-Unless stated otherwise, code is [MIT][] © [Titus Wormer][author],
+Unless stated otherwise, code is [MIT][] © [Janno Kapritsias][author],
 docs and images are [CC-BY-4.0][].
 
 [mit]: license.md#code
