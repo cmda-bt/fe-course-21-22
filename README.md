@@ -1,3 +1,6 @@
+
+ ![Image of FED2 banner](https://oege.ie.hva.nl/~jkaprit/brightspace-banner-fe.png)
+
 # Front-end 2 (FED2) || year 2020-2021
 
 <!--lint disable no-html-->
