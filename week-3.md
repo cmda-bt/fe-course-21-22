@@ -2,8 +2,6 @@
 
 # Week 3
 
-![][cover]
-
 #### Synopsis
 
 * **Regular lesson**
