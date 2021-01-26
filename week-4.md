@@ -34,7 +34,7 @@ In this lesson you continue building the Frontend code for the job story designe
 Use the following prefix; Front-end: Hoisting and Front-end: Closures. Provide code examples of the concepts and explain in detail (code examples can be found on the internet - use APA style source notation).
 
 1. Hoisting
-2. Closures
+2. Scope
 
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_18.jpg
