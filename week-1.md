@@ -40,8 +40,8 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 ## Hand in
 
-Inside your own repository document your Progressive Enhancement findings as described in the section <b>In-class exercises</b>
+- Inside your own repository document your Progressive Enhancement findings as described in the section <b>In-class exercises</b>
 
-Hand in your findings of the above described chapters. You can do so by navigating to the issues section, click create new issue and select the week 1 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
+- Hand in your findings of the above described chapters. You can do so by navigating to the issues section, click create new issue and select the week 1 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_14.jpg
