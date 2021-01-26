@@ -20,6 +20,8 @@
 
 These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
+
+* [Chapter 4: Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
 * [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
 * [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
@@ -36,7 +38,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 ### Exercises
 
-Finish the following exercise from the corresponding chapter:
+Start with the following exercise from the corresponding chapter:
 
 * [Elements by tag name](https://eloquentjavascript.net/14_dom.html#i_VSftnyRTsV)
 
@@ -49,6 +51,6 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 ## Hand in
 
-Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
+Hand in your progess (chapter summaries) in a issue template in this repository.
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
