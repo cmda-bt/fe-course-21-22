@@ -27,10 +27,8 @@ We will also discuss the following topics (homework previous lecture)
 
 * Research the following JavaScript concepts and document these in your Wiki, it is important to encorporate these concepts in your JavaScript feature and/or explain how these concepts work:
 
-1. Scope
-2. Context
-4. Hoisting
-5. Closures
+1. Hoisting
+2. Closures
 
 * Document your findings in the wiki (progress)
 * Work on Front-end feature
