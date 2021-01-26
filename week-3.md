@@ -38,4 +38,5 @@ In this lesson you continue building the Frontend code for the job story designe
 ## Hand in
 
 - Hand in your findings of the above described chapter (chapter 4). You can do so by navigating to the issues section, click create new issue and select the week 3 issue template. The chapter can be summarized by 300 words.
-[cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
+
+
