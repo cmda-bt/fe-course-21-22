@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 6
+# Week 7
 
 ![][cover]
 
