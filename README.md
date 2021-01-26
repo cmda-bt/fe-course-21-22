@@ -29,8 +29,8 @@ Each week we discuss a different topic within the field of Front-end development
 * **Week1**: Getting started || Refresh FED knowledge || Folder structure 
 * **Week2**: Progressive Enhancement || Code Plan || Start writing code for Job story (From Project Tech course)
 * **Week3**: Show code progress in small groups || Document findings in WIKI || Continue working on Job Story
-* **Week4**: Assessment 1 (digital test - WIKI - 50%) grades do not compensate each other 
-* **Week5**: Finalizing your Job Story
+* **Week4**: 
+* **Week5**: Assessment 1 (digital test - WIKI - 50%) grades do not compensate each other 
 * **Week6**: Working in teams || Merging individual FED features in order to create a working Dating App
 * **Week7**: Finalizing team project
 * **Week8**: Assessment 2 (oral test - 50%) grades do not compensate each other 
