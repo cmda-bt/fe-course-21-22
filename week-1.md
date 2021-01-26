@@ -26,7 +26,7 @@ Key takeaways;
 ### In-class exercises
 
 * Desk research about Progressive Enhancement
-* Document your findings in the repo (Progressive Enhancement)
+* Document your findings of Progressive Enhancement in your repo. You can do so by navigating to the WIKI section of your repo, click on; "create the first page" and document your findings there. The title is; <b>Front-end Week 1: Progressive Enhancement Findings</b>
 * Write down all your resources in APA format - please use a apa generator 
 * Create Folder structure for your Front-end feature
 
@@ -40,6 +40,8 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 ## Hand in
 
-Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
+Inside your own repository document your Progressive Enhancement findings as described in the section <b>In-class exercises</b>
+
+Hand in your findings of the above described chapters. You can do so by navigating to the issues section, click create new issue and select the week 1 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_14.jpg
