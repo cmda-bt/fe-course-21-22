@@ -11,8 +11,13 @@
 
 ## Table of Contents
 
+* [Theory](#theory)
 * [Practicum](#practicum)
 * [Homework](#homework)
+
+## Theory
+
+In this lesson we will talk about Higher Order Functions
 
 ## Practicum
 
