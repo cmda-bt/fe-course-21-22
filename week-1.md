@@ -17,6 +17,11 @@
 
 In this lesson you will refresh your knowledge of Front-end, find out how Front-end is scoped within Block-tech, do some exercises and get insight into the FED2 program. You will also create a folder structure for the job story that you designed in the Project Tech course - this will become your Front-end feature, which you will be graded on.
 
+Key takeaways;
+- You have 1 repo for block tech
+- Front-end code will live in your /public folder which exists in your static folder (/static/public/html | /static/public/js | /static/public/css)
+- Progressive Enhancement
+- Datatypes
 
 ### In-class exercises
 
@@ -24,14 +29,6 @@ In this lesson you will refresh your knowledge of Front-end, find out how Front-
 * Document your findings in the repo (Progressive Enhancement)
 * Write down all your resources in APA format - please use a apa generator 
 * Create Folder structure for your Front-end feature
-
-## Homework
-
-### Exercises
-
-Start the following exercise from the corresponding chapter:
-
-* [Elements by tag name](https://eloquentjavascript.net/14_dom.html#i_VSftnyRTsV)
 
 ### Read
 
