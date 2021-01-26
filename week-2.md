@@ -30,8 +30,6 @@ These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
 
 * Pitch code plan in small groups, client side enhancement for your job story.
-* Look at some basic code principals
-* Document your findings in the wiki (feedback on pitch)
 * Let's code!
 
 ## Homework
