@@ -25,7 +25,7 @@ Key takeaways;
 
 ### In-class exercises
 
-* Desk research about Progressive Enhancement (document these findings in github)
+* Desk research about Progressive Enhancement
 * Document your findings in the repo (Progressive Enhancement)
 * Write down all your resources in APA format - please use a apa generator 
 * Create Folder structure for your Front-end feature
