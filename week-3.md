@@ -35,4 +35,8 @@ In this lesson you continue building the Frontend code for the job story designe
 * Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
 * Read and research Higher Order Functions [Chapter 4: Higher Order Functions] (https://eloquentjavascript.net/05_higher_order.html)
 
+## Hand in
+
+Hand in your findings of the above described chapters (chapter 15 and 18). You can do so by navigating to the issues section, click create new issue and select the week 2 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
+
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
