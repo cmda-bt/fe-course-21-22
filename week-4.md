@@ -31,7 +31,8 @@ In this lesson you continue building the Frontend code for the job story designe
 
 * Your job story should be finished by now. Make sure to finish HTML & CSS and that you start working on the client side JavaScript Enhancement.
 * Research the following JavaScript concepts and document these in your Wiki - <b>Part of A1 grading</b>
-Use the following prefix; Front-end: Hoisting and Front-end: Closures. Provide code examples of the concepts.
+Use the following prefix; Front-end: Hoisting and Front-end: Closures. Provide code examples of the concepts and explain in detail (code examples can be found on the internet - use APA style source notation).
+
 1. Hoisting
 2. Closures
 
