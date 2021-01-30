@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 4
+# Week 4 (week after holiday
 
 ![][cover]
 
