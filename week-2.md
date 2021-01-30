@@ -29,16 +29,10 @@ These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
 
-* Pitch code plan in small groups, client side enhancement for your job story.
+* Create code plan in small groups, client side enhancement for your job story.
 * Let's code!
 
 ## Homework
-
-### Exercises
-
-Start with the following exercise from the corresponding chapter:
-
-* [Elements by tag name](https://eloquentjavascript.net/14_dom.html#i_VSftnyRTsV)
 
 ### Read
 
@@ -49,6 +43,11 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 ## Hand in
 
-- Hand in your findings of the above described chapters (chapter 15 and 18). You can do so by navigating to the issues section, click create new issue and select the week 2 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
+- Hand in your findings of the above described chapters (chapter 15 and 18). You can do so by navigating to the issues section, click create new issue and select the week 2 issue template. Each chapter can be summarized by 300 words - two chapters so 600 words total. 
+- Hand in your codeplan; inside Wiki create new page with prefix; Front-end: Codeplan. Consisting of; 
+1. html sketch of design - describe what user will see and what’s possible
+1. html + css sketch of design - short description of changes in layout
+1. html + css + js sketch of design - short description of extra functionalities
+
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
