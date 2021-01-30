@@ -31,7 +31,7 @@ In this lesson you continue building the Frontend code for the job story designe
 ## Homework
 
 * Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
-* Read and research Higher Order Functions [Chapter 4: Higher Order Functions] (https://eloquentjavascript.net/05_higher_order.html)
+* Read and research Higher Order Functions [Chapter 5: Higher Order Functions] (https://eloquentjavascript.net/05_higher_order.html)
 
 ## Hand in
 
