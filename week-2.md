@@ -45,7 +45,7 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 - Hand in your findings of the above described chapters (chapter 15 and 18). You can do so by navigating to the issues section, click create new issue and select the week 2 issue template. Each chapter can be summarized by 300 words - two chapters so 600 words total. 
 - Hand in your codeplan; inside Wiki create new page with prefix; Front-end: Codeplan. Consisting of; 
-1. html sketch of design - describe what user will see and what’s possible
+1. Only html sketch of design; - visualise what user will see and what’s possible
 1. html + css sketch of design - short description of changes in layout
 1. html + css + js sketch of design - short description of extra functionalities
 
