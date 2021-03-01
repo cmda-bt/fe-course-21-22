@@ -36,7 +36,6 @@ Use the following prefix; Front-end: Hoisting and Front-end: Closures. Provide c
 1. Hoisting
 2. Closures
 
-* Next week you show your (static HTML/CSS) front-end feature - be prepared 
 
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_18.jpg
