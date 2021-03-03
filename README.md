@@ -45,7 +45,7 @@ The course **Frontend** is given at [**@CMDA**][cmda] in 2020 in the third en fo
 
 * **Course**: Frontend 2
 * **Coordinator**: Janno Kapritsias
-* **Lecturers**: Janno Kapritsias & TBA
+* **Lecturers**: Robert Spier & Janno Kapritsias
 * **SIS**: Frontend Development 2
 * **Credit**: 3 ECTS
 * **Academic year**: 2020-2021
