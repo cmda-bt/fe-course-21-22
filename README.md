@@ -30,10 +30,11 @@ Each week we discuss a different topic within the field of Front-end development
 * **Week2**: Progressive Enhancement || Code Plan || Start writing code for Job story (From Project Tech course)
 * **Week3**: Show code progress in small groups || Document findings in WIKI || Continue working on Job Story
 * **Week4**: Holidays
-* **Week5**: Assessment 1 (digital test - WIKI - 50%) grades do not compensate each other 
-* **Week6**: Working in teams || Merging individual FED features in order to create a working Dating App
-* **Week7**: Finalizing team project
-* **Week8**: Assessment 2 (oral test - 50%) grades do not compensate each other 
+* **Week5**: HOF - continue working on Matching app 
+* **Week6**: Assessment 1 (digital test - WIKI - 50%) grades do not compensate each other. Deadline for submissions is 11-03 
+* **Week7**: Working in teams || Merging individual FED features in order to create a working Matching App
+* **Week8**: Finalizing team project
+* **Week9**: Assessment 2 (oral test - 50%) grades do not compensate each other 
 
 > Check [rooster.hva](http://rooster.hva.nl) for exact class dates
 
