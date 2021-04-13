@@ -23,4 +23,4 @@ You explain these concepts in context of the code you wrote during the course, t
 
 This assessment focusses on the first main goal of this course: **improve your knowledge about core JavaScript concepts**
 
-[Grading form](https://github.com/cmda-bt/fe-course-19-20/blob/master/forms/1920%20-%20FED2%20-%20Assessment%201%20-%20Wiki.pdf)
+[Grading form](https://github.com/cmda-bt/fe-course-20-21/blob/main/a1.pdf)
