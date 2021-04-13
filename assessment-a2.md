@@ -37,7 +37,7 @@ You do not need to create an issue.
 
 This assessment focusses on all [main goals][mg] of this course: **you improve your knowledge about core JavaScript concepts** and **you are able to build progressively enhanced frontend components**.
 
-[Grading form](https://github.com/cmda-bt/fe-course-19-20/blob/master/forms/assessment-2-pe-component.pdf)
+[Grading form](https://github.com/cmda-bt/fe-course-20-21/blob/main/assessment-a2.md)
 
 ## Plagiarism
 
