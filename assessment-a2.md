@@ -12,7 +12,7 @@
 
 * **Weight**: 50%
 * **Type**: Oral test
-* **Date**: In the last week of the course
+* **Date**: 07-11 June
 * **Time**: 0:15h
 * **Grade**: At least 5.5 to pass this course
 * **Bring**: Laptop and charger
