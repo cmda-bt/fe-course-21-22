@@ -10,7 +10,7 @@
 
 * **Weight**: 50%
 * **Type**: Digital test
-* **Date**: week of 08-12 March
+* **Date**: week of 17-21 May
 ## Description
 
 Assessment 1 tests your knowledge of in this course acquired matter.
