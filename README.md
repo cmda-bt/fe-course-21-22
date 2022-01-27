@@ -50,7 +50,7 @@ If you have questions:
 *   Read the manual for the technology in question
     ([Git](https://git-scm.com/docs),
     [GitHub](https://guides.github.com),
-    [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide),
+    [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide))
 *   [Browse examples][examples]
 *   [Search StackOverflow][stackoverflow]
 *   [Use a search engine like DuckDuckGo][duckduckgo]
