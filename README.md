@@ -1,228 +1,196 @@
+ # ![Front-end 2 - Course 2021-2022][banner]
 
- ![Image of FED2 banner](https://oege.ie.hva.nl/~jkaprit/brightspace-banner-fe.png)
+## Table of Content
 
-# Front-end 2 (FED2) || year 2020-2021
-
-<!--lint disable no-html-->
-
-<!--lint enable maximum-line-length-->
-
-## Table of Contents
-
-* [Synopsis](#synopsis)
-* [Description](#description)
-* [Communication](#communication)
-* [Goals](#goals)
-* [Grade](#grade)
-* [Calendar](#calendar)
-* [Effort](#effort)
-* [Materials](#materials)
-* [Bugs](#bugs)
-* [Programme](#programme)
-* [Conduct](#conduct)
-* [License](#license)
-
-## Program overview
-
-Each week we discuss a different topic within the field of Front-end development (FED). You can find the details with respect to homework | topics | resources and more in the week-**number**.md files.
-
-* **Week1**: Getting started || Refresh FED knowledge || Folder structure 
-* **Week2**: Progressive Enhancement || Code Plan || Start writing code for Job story (From Project Tech course)
-* **Week3**: Show code progress in small groups || Document findings in WIKI || Continue working on Job Story
-* **Week4**: Holidays
-* **Week5**: HOF - continue working on Matching app 
-* **Week6**: Assessment 1 (digital test - WIKI - 50%) grades do not compensate each other. Deadline for submissions is 09-03 
-* **Week7**: Working in teams || Merging individual FED features in order to create a working Matching App
-* **Week8**: Finalizing team project
-* **Week9**: Assessment 2 (oral test - 50%) grades do not compensate each other 
-
-> Check [rooster.hva](http://rooster.hva.nl) for exact class dates
-
+*   [Synopsis](#synopsis)
+*   [Description](#description)
+*   [Communication](#communication)
+*   [Goals](#goals)
+*   [Grade](#grade)
+*   [Programme](#programme)
+*   [Conduct](#conduct)
+*   [Statements](#statements)
+*   [License](#license)
 
 ## Synopsis
 
-The course **Frontend** is given at [**@CMDA**][cmda] in 2020 in the third en fourth quarter
+The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February and June.
 
-* **Course**: Frontend 2
-* **Coordinator**: Janno Kapritsias
-* **Lecturers**: Robert Spier & Janno Kapritsias
-* **SIS**: Frontend Development 2
-* **Credit**: 3 ECTS
-* **Academic year**: 2020-2021
-* **Period**: Quarter 3 & 4
-* **Programme**: Communication and Multimedia Design (full time bachelor)
-* **Language**: Dutch instructions and English resources
-* **Entry requirements**: N/A
+*   **Course**: [Front-end Development 2][course] (`2000FED221`)
+*   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Robert Spier][robgit] - r.spier@hva.nl
+*   **Lecturers**:
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and and [Robert Spier][robgit] ([**roberrrt-s**][robgit]) 
+*   **Credit**: 3 ECTS
+*   **Academic year**: 2021-2022
+*   **Period**: Quarter 3 (spring)
+*   **University**: [Amsterdam University of Applied Sciences][university]
+*   **Programme**: [Communication and Multimedia Design][cmd] (full time bachelor CROHO: `34092`)
+*   **Faculty**: [Digital Media and Creative Industries][faculty]
+*   **Language**: Dutch instructions and English resources
+*   **Entry requirements**: N/A
 
 ## Description
+In Front-end 2 we concentrate on improving the knowledge core JavaScript concepts and learn how to progressively enhance interfaces with mostly JavaScript. Multiple frontend components are designed and build using client-side JavaScript.
 
-In Frontend 2 we concentrate on improving the knowledge core JavaScript concepts and learn how to [progressively enhance][pe] interfaces with HTML, CSS & JavaScript. In so called Dev-❤️-Devs sessions (based on a method developed by [De Voorhoede][voorhoede]) multiple frontend components are designed and build.
+Front-end 2 is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Project Tech**, together making up Block Tech. 
 
-Frontend 2 is an elective course given in Quarter 3 & 4 after the core curriculum of our programme, building further on knowledge acquired in Internetstandaarden, Inleiding Programmeren, and Frontend 1. This course is chosen alongside Backend and Project Tech, together making up Block Tech. In Project Tech you’ll apply your newfound frontend skills.
+If you’d like to continue with web development after this course, do a tech internship, choose the [Tech Track][track] for the fall semester next year, and pick [Minor Everything Web][minor] in the spring semester after that. Just a quick check if anyone actually reads this: if you see this, please send your teacher a picture of your favorite animal.
 
-If you’d like to continue with web development after this course, do a tech internship next quarter (Q4), choose Information Design (includes Frontend Apps, Functional Programming, and Frontend Data) for the fall semester next year, and pick Minor Everything Web in the spring semester after that.
+_Front-end 2 is part of the  CMD Amsterdam **design & build space** (technical course) that focusses on   Conceptualizing (2), Imagining and creating (3), Multidisciplinary collaboration (5) & Research (9) competences._ 
 
 ## Communication
 
-* [GitHub][gh-fe] — Main source of information, assignments, important dates, and more
-* [Slack][slack] — General chatter and Q&A
-* [Moodle][moodle-fe] — Schedulers
-
-## Goals
-
-#### Main goals
-
-The two main goals in this course are that you:
-
-* Improve your knowledge about core JavaScript concepts
-* Are able to build progressively enhanced frontend components
-
-## Grade
-
-| Task                               |   Weight |
-| ---------------------------------- | -------: |
-| [Assessment 1※][a1] (digital test) |      50% |
-| [Assessment 2※][a2] (oral test)    |      50% |
-| **Total**                          | **100%** |
-
-> Participation, assessments 1 & assessment 2 don't compensate each other
-
-## Materials
-
-#### Resources used in this course
-
-* 🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/) — Modern intro to programming
-
-#### Resources to refresh your memory
-
-* 🆓 [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-  (**course**) — Intro to JavaScript: Learn to code interactively
-* 🆓 [Re-introduction to JavaScript](https://developer.mozilla.org/Web/JavaScript/A_re-introduction_to_JavaScript)
-  (**article**) — Short re-introduction to JavaScript
-* 🆓 [JavaScript Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
-  (**course**) — Learn JavaScript on Lynda
-  (free for AUAS students through our [portal][lynda-portal])
-* 🆓 [JavaScript For Cats](http://jsforcats.com)
-  (**book**) — Intro to JavaScript for new programmers
-* 🆓 [JavaScript 30](https://javascript30.com)
-  (**course**) — 30 day vanilla JavaScript coding challenge
-* 🆓 [Programming 101: Learn English](https://youtu.be/pOwnBPaW5zE)
-  (**video**)
-
-#### Resources used in previous courses
-
-* Duckett, Jon.
-  _HTML & CSS_.
-  John Wiley & Sons, 2015
-  (**internetstandaarden**)
-* [Howe, Shay.
-  _Learn to Code HTML & CSS_.
-  New Riders, 2014][html-css]
-  (**internetstandaarden**)
-* Duckett, Jon.
-  _JavaScript & jQuery_.
-  John Wiley & Sons, 2015
-  (**inleiding programmeren**)
-
-## Bugs
+*   [GitHub][gh] — Main source of information, slides, assignments and more
+*   [Microsoft Teams][teams] — General chatter and Q&A
+*   [Brightspace][brightspace] — Schedulers, rubrics and grading
+  
 
 If you have questions:
 
-* Read the manual for the technology in question
-  ([Git](https://git-scm.com/docs),
-  [GitHub](https://guides.github.com),
-  [Node](https://nodejs.org/api/),
-  [npm](https://docs.npmjs.com),
-  [express](http://expressjs.com/en/4x/api.html),
-  [MySQL](https://dev.mysql.com/doc/refman/5.7/en/),
-  [MongoDB](https://docs.mongodb.com))
-* [Browse examples][examples]
-* [Search StackOverflow][stackoverflow]
-* [Use a search engine like DuckDuckGo][duckduckgo]
-* [Ask questions on Slack][slack]
-* [Contact a lecturer][synopsis]
+*   Read the manual for the technology in question
+    ([Git](https://git-scm.com/docs),
+    [GitHub](https://guides.github.com),
+    [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide),
+*   [Browse examples][examples]
+*   [Search StackOverflow][stackoverflow]
+*   [Use a search engine like DuckDuckGo][duckduckgo]
+*   [Ask questions on MS Teams][teams]
+
+> This course doesn't have office hours. Teachers have limited time to help you outside of class. Attendance to class is not compulsory. 80% of success in this course is showing up, so show up and come prepared with your questions. Don't hesitate to ask questions or feedback during class.
+
+## Goals
+
+### Main goals
+
+The main goals in this course:
+
+* You improve your knowledge about core JavaScript concepts
+* You are able to build progressively enhanced frontend components
+* You can build a web application with semantic HTML designed with CSS and Client-side JavaScript
+* You are able to research sources and read documentation
+
+
+### Sub goals
+
+In practice you’ll learn to:
+
+The below table breaks down the general time needed per week.
+
+| Week | Effort | Topic            | Activities                                             |
+| ---- | -----: | ---------------- | ------------------------------------------------------ |
+| 0    |  NaN   | getting started  | getting started                                  |
+| 1    |  9:20h | core javascript   | lab     |
+| 2    |  9:20h | scope, hoisting | lab     |
+| 3    |  9:20h | http and forms             | lab |
+| 4    |  9:20h | progressive enhancement         | lab    |
+| 5    |  NaN   | assessment 1     | a1                              |
+| 6    | 13:20h | application            | feedback (work on team application )                       |
+| 7    | 13:20h | application            | feedback (work on team application)                       |
+| 8    |  NaN   | assessment 2     | a2                            |  
+
+> Check [`rooster.hva.nl`][class] for exact class dates
+
+## Grade
+
+| Task                                |   Weight |
+| ----------------------------------  | -------: |
+| [Assessment 1][grading] (individual)|      50% |
+| [Assessment 2][grading] (team)      |      50% |
+| **Total**                           | **100%** |
+
+
+```js
+if (!a1 && !a2) {
+  grade = 'GR'
+} else if (a1 < 5.5 || a2 < 5.5) {
+  grade = 1
+} else {
+  grade = (a1 * 0.6) + (a2 * 0.4)
+}
+```
 
 ## Programme
 
 This course is given at [Communication and Multimedia Design][bachelor], a
-design bachelor focused on interactive digital products and services. CMD is
+design bachelor focused on interactive digital products and services.  CMD is
 part of the [Faculty of Digital Media and Creative Industries][faculty] at the
 [Amsterdam University of Applied Sciences][university].
 
-[![][cmd-logo]][bachelor]
+Our curriculum and course material are publicly available on the Block Tech (github.com/cmda-bt) GitHub organization. We follow the global trend to make teaching materials accessible to everyone inspired by the [Open Education Global][oec].
 
 ## Conduct
 
-This course has a [Code of Conduct][coc]. Anyone interacting with this
-repository, organisation, or community is bound by it.
-
-Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
+This course has a [Code of Conduct][coc].  Anyone interacting with this repository, organisation, or community is bound by it. Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
 van Amsterdam) are additionally bound by the [Regulation Undesirable
 Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
+## Statements
+
+We are dedicated to provide you with a learning environment that is _rigorous, respectful and supportive_ so you can engage in the free exchange of ideas and commit yourself fully to the study of your discipline. To that end we are committed to enforce important AUAS policies. You can find our policies and statements (e.g. accessibility, health, plagiarism) in the `docs` folder.
+
 ## License
 
-Unless stated otherwise, code is [MIT][] © [Janno Kapritsias][author],
-docs and images are [CC-BY-4.0][].
+[MIT][] © [Danny de Vries][dangit] & [Robert Spier][robgit], docs and images are [CC-BY-4.0][].
 
-[mit]: license.md#code
-[cc-by-4.0]: license.md#documentation-and-images
+[banner]: https://cmda-bt.github.io/fe-course-21-22/assets/banner.svg
+[cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
-[fe3]: https://github.com/cmda-fe3/course-17-18
-[gh-fe]: https://github.com/cmda-fe/course-1819
-[slack]: https://cmda-tech.slack.com
-[moodle-fe]: https://moodle.cmd.hva.nl/course/view.php?id=451
-[rooster]: https://rooster.hva.nl
-[pe]: https://en.wikipedia.org/wiki/Progressive_enhancement
+[dangit]: https://github.com/dandevri
+[danweb]: https://github.com/dandevri
+[robgit]: https://github.com/roberrrt-s
+[node]: https://nodejs.org/en/
+[mongodb]: https://www.mongodb.com/
 [http]: https://tools.ietf.org/html/rfc2068
-[command-line]: https://en.wikipedia.org/wiki/Command-line_interface
-[git]: https://git-scm.com
+[minor]: https://cmda.github.io/minor-everything-web/
+[track]: https://github.com/cmda-tt
+[gh]: https://github.com/cmda-be/course-18-19
+[examples]: /examples
+[teams]: http://teams.microsoft.com
+[brightspace]: https://dlo.mijnhva.nl/d2l/home/192551
+[examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
 [synopsis]: #synopsis
-[minor]: https://cmda.github.io/minor-everything-web/
-[voorhoede]: https://www.voorhoede.nl
-[html-css]: https://learn.shayhowe.com/html-css/
-[safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
-[lynda-portal]: https://lyndaportal.ict.hva.nl
-[ydkjs-1]: https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
-[ydkjs-2]: https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures
-[ydkjs-3]: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
-[ydkjs-4]: https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar
-[ydkjs-5]: https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
-[ydkjs-6]: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond
+[grading]: /grading
 [bachelor]: https://www.cmd-amsterdam.nl/english/
 [faculty]: https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html
 [university]: https://www.amsterdamuas.com
-[cmd-logo]: images/cmd.jpg
 [coc]: code-of-conduct.md
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
-[a1]: assessment-1.md
-[a2]: assessment-2.md
-[participation]: participation.md
+[author]: https://dandevri.es
+[mit]: license.md#code
+[cc-by-4.0]: license.md#documentation-and-images
+[faq]: https://dlo.mijnhva.nl/d2l/lms/faq/view_faq.d2l?ou=32096
+[class]: https://rooster.hva.nl/
+[course]: https://studiegids.hva.nl/#/cmd-vt/1/010624
+[oec]: https://www.oeglobal.org
+
+[gs]: getting-started.md
+
 [w1]: week-1.md
 [w2]: week-2.md
 [w3]: week-3.md
 [w4]: week-4.md
 [w5]: week-5.md
 [w6]: week-6.md
+[w7]: week-7.md
+
 [w1lec]: week-1.md#lecture
 [w2lec]: week-2.md#lecture
 [w3lec]: week-3.md#lecture
 [w4lec]: week-4.md#lecture
 [w5lec]: week-5.md#lecture
 [w6lec]: week-6.md#lecture
+
 [w1lab]: week-1.md#lab
 [w2lab]: week-2.md#lab
 [w3lab]: week-3.md#lab
 [w4lab]: week-4.md#lab
 [w5lab]: week-5.md#lab
 [w6lab]: week-6.md#lab
-[w7lab]: week-7.md#lab
-[w8lab]: week-8.md#lab
+
 [w1a]: week-1.md#assignments
 [w2a]: week-2.md#assignments
 [w3a]: week-3.md#assignments
 [w4a]: week-4.md#assignments
-[w5a]: week-5.md#assignments
