@@ -19,7 +19,7 @@ The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February 
 *   **Course**: [Front-end Development 2][course] (`2000FED221`)
 *   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Robert Spier][robgit] - r.spier@hva.nl
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and and [Robert Spier][robgit] ([**roberrrt-s**][robgit]) 
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and and [Robert Spier][robgit] ([**roberrrt-s**][robgit])
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2021-2022
 *   **Period**: Quarter 3 (spring)
@@ -32,18 +32,18 @@ The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February 
 ## Description
 In Front-end 2 we concentrate on improving the knowledge core JavaScript concepts and learn how to progressively enhance interfaces with mostly JavaScript. Multiple frontend components are designed and build using client-side JavaScript.
 
-Front-end 2 is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Project Tech**, together making up Block Tech. 
+Front-end 2 is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Back-end** and **Project Tech**, together making up Block Tech.
 
 If you’d like to continue with web development after this course, do a tech internship, choose the [Tech Track][track] for the fall semester next year, and pick [Minor Everything Web][minor] in the spring semester after that. Just a quick check if anyone actually reads this: if you see this, please send your teacher a picture of your favorite animal.
 
-_Front-end 2 is part of the  CMD Amsterdam **design & build space** (technical course) that focusses on   Conceptualizing (2), Imagining and creating (3), Multidisciplinary collaboration (5) & Research (9) competences._ 
+_Front-end 2 is part of the  CMD Amsterdam **design & build space** (technical course) that focusses on   Conceptualizing (2), Imagining and creating (3), Multidisciplinary collaboration (5) & Research (9) competences._
 
 ## Communication
 
 *   [GitHub][gh] — Main source of information, slides, assignments and more
 *   [Microsoft Teams][teams] — General chatter and Q&A
 *   [Brightspace][brightspace] — Schedulers, rubrics and grading
-  
+
 
 If you have questions:
 
@@ -86,7 +86,7 @@ The below table breaks down the general time needed per week.
 | 5    |  NaN   | assessment 1     | a1                              |
 | 6    | 13:20h | application            | feedback (work on team application )                       |
 | 7    | 13:20h | application            | feedback (work on team application)                       |
-| 8    |  NaN   | assessment 2     | a2                            |  
+| 8    |  NaN   | assessment 2     | a2                            |
 
 > Check [`rooster.hva.nl`][class] for exact class dates
 
