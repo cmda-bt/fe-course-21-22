@@ -28,7 +28,7 @@ This assessment focusses on the first main goal of this course: **improve your k
 ### Rubric
 
 
-**[Download a `.pdf` version of the Rubric](https://github.com/cmda-bt/fe-course-20-21/blob/main/a1.pdf)**
+**[Download a `.pdf` version of the Rubric](https://github.com/cmda-bt/fe-course-20-21/blob/main/fe-a1-rubric_teacher.pdf)**
 
 <table>
   <thead>
