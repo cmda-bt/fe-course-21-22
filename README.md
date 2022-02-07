@@ -19,7 +19,7 @@ The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February 
 *   **Course**: [Front-end Development 2][course] (`2000FED221`)
 *   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Robert Spier][robgit] - r.spier@hva.nl
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and and [Robert Spier][robgit] ([**roberrrt-s**][robgit])
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and [Robert Spier][robgit] ([**roberrrt-s**][robgit])
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2021-2022
 *   **Period**: Quarter 3 (spring)
@@ -79,13 +79,13 @@ The below table breaks down the general time needed per week.
 | Week | Effort | Topic            | Activities                                             |
 | ---- | -----: | ---------------- | ------------------------------------------------------ |
 | 0    |  NaN   | getting started  | getting started                                  |
-| 1    |  9:20h | core javascript   | lab     |
-| 2    |  9:20h | scope, hoisting | lab     |
-| 3    |  9:20h | http and forms             | lab |
-| 4    |  9:20h | progressive enhancement         | lab    |
+| 1    |  9:20h / 14:30h | ES6 + Datatypes   | lab     |
+| 2    |  9:20h / 14:30h | Events + DOM | lab     |
+| 3    |  9:20h / 14:30h | Coding Principles + PE             | lab |
+| 4    |  9:20h / 14:30h | Async + Promises         | lab    |
 | 5    |  NaN   | assessment 1     | a1                              |
-| 6    | 13:20h | application            | feedback (work on team application )                       |
-| 7    | 13:20h | application            | feedback (work on team application)                       |
+| 6    | 14:30h | Code Review (PE)            | feedback (work on team application )                       |
+| 7    | 14:30h | Code Review (FED1)            | feedback (work on team application)                       |
 | 8    |  NaN   | assessment 2     | a2                            |
 
 > Check [`rooster.hva.nl`][class] for exact class dates
