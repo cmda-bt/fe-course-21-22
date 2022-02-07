@@ -9,7 +9,7 @@
 
 ## Description
 
-👋 **Welcome to front-end!** 
+👋 **Welcome to front-end!**
 
 This getting started guide will get you up and running with all the software and tools you need for this course. Throughout this guide there are additional video's that further explain important topics from lectures but also show you how to install certain technology. Look for a 🎦 emoji!
 
