@@ -9,7 +9,7 @@
 ## Synopsis
 
 * **Weight**: 50%
-* **Type**: Digital test
+* **Type**: Digital assessment
 * **Date**: week of 14-18 March
 ## Description
 
