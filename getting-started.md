@@ -20,7 +20,7 @@ This guide assumes you already followed the getting started guide from project-t
 Furthermore, for the first lesson, please read the following articles:
 
 * [W3Schools. (2022). JavaScript Data Types.](https://www.w3schools.com/js/js_datatypes.asp)
-* [Hayani, S. (2020, 24 april). JavaScript ES6 — write less, do more. freeCodeCamp.Org.](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
+* [Hayani, S. (2020, 24 april). JavaScript ES6 — write less, do more.](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
 
 ## Text Editor
 
