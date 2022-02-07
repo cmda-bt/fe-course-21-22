@@ -25,10 +25,10 @@ This is an oral test where you present your final project.
 Bring your own computer and a charger.
 You will show you can create a quality project in which you apply the subject matter of this course and that you understand it.
 You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
+As for grading, we'll specifically look into functionalities that contains some form, or a full implementation of *progressive enhancement*. Most of the standards of FED 1 also apply.
+Make sure to check the [grading form](https://github.com/cmda-bt/fe-course-20-21/blob/main/a2.pdf) of A2 to understand what we expect.
 
-**Note: your project must be inside the static/public folder`**.
-
-We will download and archive your project when it’s due.
+Make sure **all members of your team** upload the codebase on Brightspace.
 You will present the project on your computer.
 We will check code handed in on GitHub.
 You do not need to create an issue.
