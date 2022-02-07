@@ -17,6 +17,11 @@ This getting started guide will get you up and running with all the software and
 
 This guide assumes you already followed the getting started guide from project-tech and Back-end. So you should already have a Text Editor, GitHub account and configured Git.
 
+Furthermore, for the first lesson, please read the following articles:
+
+* [W3Schools. (2022). JavaScript Data Types.](https://www.w3schools.com/js/js_datatypes.asp)
+* [Hayani, S. (2020, 24 april). JavaScript ES6 — write less, do more. freeCodeCamp.Org.](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
+
 ## Text Editor
 
 For this course you won't need anything other then a Code Editor and a Web Browser. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [VSCode](https://code.visualstudio.com/) is our recommended choice but there are others.  [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) are both also good choices. 
