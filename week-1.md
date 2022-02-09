@@ -1,47 +1,112 @@
-# Week 1
+# Week 1 
 
-![][cover]
+> Always bet on JavaScript.
+>
+> — [**@elonmusk, inventor of Java**][quote-author]
 
-#### Synopsis
+[![][inspiration-cover]][inspiration-link]
 
-* **Regular lesson**
-* **Time**: 1:40h
+> What the heck is the Event Loop Anyway? by [**@philip_roberts**][inspiration-author].
 
 ## Table of Contents
 
-* [Practicum](#practicum)
-* [Homework](#homework)
-* [Hand In](#hand-in)
+* [Slides](#slides)
+* [Theory](#theory)
+* [Assignments](#assignments)
+* [Hand in](#hand-in)
 
-## Practicum
+## Slides
+* [Lab-1][lab1]
 
-In this lesson you will refresh your knowledge of Front-end, find out how Front-end is scoped within Block-tech, do some exercises and get insight into the FED2 program. You will also create a folder structure for the job story that you designed in the Project Tech course - this will become your Front-end feature, which you will be graded on.
+## Theory
+Before you start you'll probably want to refresh your JavaScript knowledge a bit. In the first week we'll talk about ES5 vs ES6, basic data types and progressive enhancement. We'll cover this in the lab but make sure you fully understand these concept, the resources below can help.
 
-Key takeaways;
-- You have 1 repo for block tech
-- Front-end code will live in your /public folder which exists in your static folder (/static/public/html | /static/public/js | /static/public/css)
-- Progressive Enhancement
-- Datatypes
+* [_The Complete ECMAScript guide_][ecma-guide]
+* [_You Don't Know JS: What is JavaScript_][what-js]
 
-### In-class exercises
+## Assignments
 
-* Desk research about Progressive Enhancement
-* Document your findings of Progressive Enhancement in your repo. You can do so by navigating to the WIKI section of your repo, click on; "create the first page" and document your findings there. The title is; <b>Front-end Week 1: Progressive Enhancement Findings</b>
-* Write down all your resources in APA format - please use a apa generator 
-* Create Folder structure for your Front-end feature
+### Basics
+![Basics Banner](assets/banners/basics.png)
+> Refresh basic JavaScript knowledge and learn about the difference between ES5 and ES6
 
-### Read
+#### Synopsis
 
-Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+*  **Time**: 4:00h
+*  **Goals**: subgoal 1, subgoal 2
+*  **Due**: before week 2
 
-* [Chapter 4: Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
-* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
-* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+Read some of the more in-depth JavaScript articles below:
 
-## Hand in
+*  [Var Let and Const by Fun Fun Function](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+* [Values, Types and Operators chapter from Eloquent JavaScript](https://eloquentjavascript.net/01_values.html)
 
-- Inside your own repository document your Progressive Enhancement findings as described in the section <b>In-class exercises</b>
+Then, finish the assignments that are used in the Lab of this week. 
 
-- Hand in your findings of the above described chapters. You can do so by navigating to the issues section, click create new issue and select the week 1 issue template. Each chapter can be summarized by 300 words - three chapters so 900 words total.
+* Front-end (blok web) JavaScript refactor to ES6
+* [Datatypes cardio on CodePen](https://codepen.io/robertspier/pen/KKyNQGM)
 
-[cover]: https://eloquentjavascript.net/img/chapter_picture_14.jpg
+Additionally you can refresh more of your JavaScript knowledge by doing a couple of FreeCodeCamp exercises or do some exercises from Wes Bos his JavaScript30 course. 
+
+* [FreeCodeCamp Basics JavaScript](https://www.freecodecamp.org)
+* [JavaScript 30 by Wes Bos](https://javascript30.com)
+
+
+### Enhancement
+
+![Enhancement banner](assets/banners/enhancement.png)
+> Research progressive enhancement and document in your wiki your idea of the progressively enhanced component you want to build during this project.
+
+#### Synopsis
+
+*  **Time**: 6:00h
+*  **Goals**: subgoal 1, subgoal 2
+*  **Due**: before week 2
+
+#### Assignment
+Research progressive enhancement and document your idea of the component you want to build during this project. 
+
+* Look for inspiration, what components do you see in the wild and will fit your matching application?
+* What will be done server-side, what will be done client-side?
+* Are you going to use web API's on the client to enhance the user experience?
+* What will happen if JavaScript is disabled? Will je degrade to HTML & CSS? 
+
+**Additional resources**
+* [The Power of Progressive Enhancement by Andy Bell](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
+* [Progressive Enhancement Reading list by Quirksblog](https://www.quirksmode.org/blog/archives/2021/02/progressive_enh_1.html)
+
+## Hand-in
+
+1. **Push your changes:**  
+Commit your progess in your repository on GitHub under your username in your wiki.
+
+2. **Create an issue:**  
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
+
+3. **Feedback:**  
+Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
+
+[quote-author]: https://beginnerjavascript.com
+[inspiration-cover]: assets/images/event-loop.png
+[inspiration-link]: http://latentflip.com/loupe/
+[inspiration-author]: https://twitter.com/philip_roberts?lang=en
+
+[ecma-guide]: https://flaviocopes.com/ecmascript/
+[what-js]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md
+[node-npm]: https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager
+
+[npmjs]: https://www.npmjs.com/
+[camelcase]: https://www.npmjs.com/package/camelcase
+[lodash]: https://www.npmjs.com/package/lodash
+[nodeschool]: https://nodeschool.io/
+[intro-npm]: https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
+[global]: https://nodejs.dev/npm-global-or-local-packages
+[issues]: https://github.com/cmda-bt/be-course-21-22/issues/new/choose
+[fe-be]: https://zellwk.com/blog/frontend-vs-backend/
+[github-node-gitignore]: https://github.com/github/gitignore/blob/master/Node.gitignore
+
+[videonode]: https://www.youtube.com/watch?v=ZpiHUOM_Y-0
+[videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
+[videopackage]: https://www.youtube.com/watch?v=shSB9BbK1gU
+
+[lab1]: /slides/be_20-21_lab-1.pdf
