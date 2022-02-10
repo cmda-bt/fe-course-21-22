@@ -64,27 +64,22 @@ Additionally you can refresh more of your JavaScript knowledge by doing a couple
 *  **Due**: before week 2
 
 #### Assignment
-Research progressive enhancement and document your idea of the component you want to build during this project. 
+Research progressive enhancement and document your idea of the component you want to build during this project.
 
 * Look for inspiration, what components do you see in the wild and will fit your matching application?
 * What will be done server-side, what will be done client-side?
 * Are you going to use web API's on the client to enhance the user experience?
-* What will happen if JavaScript is disabled? Will je degrade to HTML & CSS? 
+* What will happen if JavaScript is disabled? Will it degrade gracefully to HTML & CSS?
+
+**Read for week 2:**
+* [MDN. (2021, 14 september). Introduction to the DOM - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+* [MDN. (2022, 4 februari). Introduction to events - Learn web development ](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 **Additional resources**
 * [The Power of Progressive Enhancement by Andy Bell](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
 * [Progressive Enhancement Reading list by Quirksblog](https://www.quirksmode.org/blog/archives/2021/02/progressive_enh_1.html)
 
-## Hand-in
 
-1. **Push your changes:**  
-Commit your progess in your repository on GitHub under your username in your wiki.
-
-2. **Create an issue:**  
-Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
-
-3. **Feedback:**  
-Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 [quote-author]: https://beginnerjavascript.com
 [inspiration-cover]: assets/images/event-loop.png
