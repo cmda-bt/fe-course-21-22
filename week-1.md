@@ -104,4 +104,4 @@ Research progressive enhancement and document your idea of the component you wan
 [videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
 [videopackage]: https://www.youtube.com/watch?v=shSB9BbK1gU
 
-[lab1]: /slides/be_20-21_lab-1.pdf
+[lab1]: /slides/felab-1_21-22.pdf
