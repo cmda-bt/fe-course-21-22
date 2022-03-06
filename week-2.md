@@ -1,7 +1,5 @@
 # Week 2
 
-![][cover]
-
 ## Table of Contents
 
 * [Slides](#slides)
@@ -42,6 +40,4 @@ Read these articles regarding coding principles & progressive enhancement
 * [Smashing Mag. (2009, 22 april). Progressive Enhancement: What It Is, And How To Use It?](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
 
-**Additional resources**
-
-coming soon.
+[lab2]: /slides/fe_lab-2_21-22.pdf
