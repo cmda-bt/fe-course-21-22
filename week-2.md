@@ -36,7 +36,7 @@ Continue working on your functionality, start building the HTML according to the
 Read these articles regarding coding principles & progressive enhancement
 
 * [Mandwarya, A. (2019, 4 februari). Scope & hoisting in JavaScript.](https://hackernoon.com/scope-hoisting-in-javascript-19b991babc4f)
-[Chisholm, K. (2021, 10 februari). Understanding Context in JavaScript - Object Literals.](Kevin Chisholm - Blog. Geraadpleegd op 17 februari 2022, van )https://blog.kevinchisholm.com/javascript/context-object-literals/)
+* [Chisholm, K. (2021, 10 februari). Understanding Context in JavaScript - Object Literals.](Kevin Chisholm - Blog. Geraadpleegd op 17 februari 2022, van )https://blog.kevinchisholm.com/javascript/context-object-literals/)
 * [Smashing Mag. (2009, 22 april). Progressive Enhancement: What It Is, And How To Use It?](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
 
