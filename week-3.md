@@ -23,7 +23,7 @@ In this lesson, we're going to explore the several "good practices" within JavaS
 
 * Conduct research regarding your own use of coding principles. What principles do you use already? Which ones would you like to implement in your own projects?
 * Learn more about JavaScript concepts as scope, context, hoisting and closures. These should help you to write "better" code and evade errors.
-* Apply three layers of Progressive Enhancement on a [blank form in codepen](codepen). Apply HTML properties, CSS pseudo selectors and your new knowledge of events to improve the user experience.
+* Apply three layers of Progressive Enhancement on a [blank form in codepen][codepen]. Apply HTML properties, CSS pseudo selectors and your new knowledge of events to improve the user experience.
 
 #### Homework
 
