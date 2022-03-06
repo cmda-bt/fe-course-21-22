@@ -44,5 +44,5 @@ Read these articles regarding asynchronous programming, promises and async/await
 * [Max Ogden (2016, 4 february) Callback hell](http://callbackhell.com/)
 * [Alberto Gimeno (2018, 14 november) Promise chaining is dead. Long live async/await](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc/)
 
-[lab3]: /slides/fe_lab-3_21-22.pdf
+[lab3]: /slides/fe_lab-3-21-22.pdf
 [codepen]: https://codepen.io/robertspier/pen/mdqqKEY
