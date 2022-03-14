@@ -44,10 +44,10 @@ This assessment focusses on the first main goal of this course: **improve your k
   <tbody>
     <tr>
       <th align="center" scope="row"><strong>Progressive Enhancement (PE)</strong></th>
-      <td align="center">There is no form of PE</td>
-      <td align="center">There is some PE in your functionality, but it is not working / not significant</td>
-      <td align="center">Your feature uses JavaScript to enhance the experience of the user</td>
-      <td align="center">You've used one or more Web API's and/or external sources to provide a layered cake of PE</td>
+      <td align="center">There is no form of PE or the functionality is not working</td>
+      <td align="center">Your enhancement only uses DOM manipulation</td>
+      <td align="center">Your enhancement uses DOM manipulation and atleast one (web or third-party) API, the enhancement has a fallback without javascript</td>
+      <td align="center">You've used multiple (web or third-party) to provide multiple enhancements</td>
       <td align="center">You've gone above and beyond to give the user the best possible experience when possible
       </td>
     </tr>
