@@ -26,7 +26,7 @@ Bring your own computer and a charger.
 You will show you can create a quality project in which you apply the subject matter of this course and that you understand it.
 You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 As for grading, we'll specifically look into functionalities that contains some form, or a full implementation of *progressive enhancement*. Most of the standards of FED 1 also apply.
-Make sure to check the [grading form](https://github.com/cmda-bt/fe-course-20-21/blob/main/a2.pdf) of A2 to understand what we expect.
+Make sure to check the [grading form](https://github.com/cmda-bt/fe-course-21-22/blob/main/a2.pdf) of A2 to understand what we expect.
 
 Make sure **all members of your team** upload the codebase on Brightspace.
 You will present the project on your computer.
@@ -37,7 +37,58 @@ You do not need to create an issue.
 
 This assessment focusses on all [main goals][mg] of this course: **you improve your knowledge about core JavaScript concepts** and **you are able to build progressively enhanced frontend components**.
 
-[Grading form](https://github.com/cmda-bt/fe-course-20-21/blob/main/a2.pdf)
+[Grading form](https://github.com/cmda-bt/fe-course-21-22/blob/main/a2.pdf)
+
+### Rubric
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>1-2</strong></th>
+      <th><strong>3-4</strong></th>
+      <th><strong>5-6</strong></th>
+      <th><strong>7-8</strong></th>
+      <th><strong>9-10</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center" scope="row"><strong>General</strong></th>
+      <td align="center">There is no cohesion in the application. Nothing works together. All features are individually made</td>
+      <td align="center">There was an attempt to unify all elements in a single application, but it's buggy</td>
+      <td align="center">All elements work together. Basic optimalisation has been applied. Class names, tags and general front-end architecture has been normalised among all team members</td>
+      <td align="center">The application is really well integrated. There's a single CSS strategy (BEM?) chosen. JavaScript is modular and applies only when needed.</td>
+      <td align="center">This application has production-ready code. It works flawlessly and could have been made a professional design studio.</td>
+    </tr>
+      <th align="center" scope="row">Application</th>
+      <td align="center">The application doesn't work; there are errors and warnings</td>
+      <td align="center">The applicaiton partially works but is not complete; incomplete flow</td>
+      <td align="center">The application completely works and is usable from a user experience point of view</td>
+      <td align="center">The application is advanced and is technically more complex</td>
+      <td align="center">The user experience is fantastic and the application is complex. You all took special care of your interface and your user</td>
+    </tr>
+    <tr>
+      <th align="center" scope="row">Quality</th>
+      <td align="center">The project is handed in documented, on time, working without technical problems, and on GitHub</td>
+      <td align="center">The code is readable, consistent and the code, project, and process are partially documented</td>
+      <td align="center">Code adheres to standards; docs cover the process and what the project is and does </td>
+      <td align="center">Code quality is good and enforced; docs are more than useful and professional</td>
+      <td align="center">Code and docs both read like great books and the project is structured logically
+      </td>
+    </tr>
+    <tr>
+      <th align="center" scope="row">Front-end</th>
+      <td align="center">Your HTML, CSS and JavaScript contains errors and is messy (divs!???)</td>
+      <td align="center">Your HTML, CSS and JavaScript display some form of semantic meaning, but are still all over the place</td>
+      <td align="center">Your HTML is semantic and appropriate elements have been chosen. Your CSS is using some sort of structure and uses CSS variables. Your JavaScript is mostly consistent and structured</td>
+      <td align="center">Your HTML, CSS and JavaScript display high levels of skill and learning. Other developers would love to build on your work</td>
+      <td align="center">HTML, CSS and JavaScript are exemplary. You may have used preprocessors properly, worked modular and/or provide in-code documentation like a professional developer</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
 
 ## Plagiarism
 
