@@ -64,10 +64,13 @@ If you have questions:
 
 The main goals in this course:
 
-* You improve your knowledge about core JavaScript concepts
-* You are able to build progressively enhanced frontend components
-* You can build a web application with semantic HTML designed with CSS and Client-side JavaScript
-* You are able to research sources and read documentation
+* You improve your knowledge about core (ES6+) JavaScript concepts
+* You know what progressive enhancement means (and understand how fallbacks work)
+* You can build an enhanced frontend component with client-side JavaScript
+* You understand how events work and can manipulate the DOM
+* You understand the use of API's and can implement a web and third-party API's
+* You can optimize a front-end application for production use
+* You are able to read documentation and research technical topics
 
 
 ### Sub goals
@@ -79,13 +82,13 @@ The below table breaks down the general time needed per week.
 | Week | Effort | Topic            | Activities                                             |
 | ---- | -----: | ---------------- | ------------------------------------------------------ |
 | 0    |  NaN   | getting started  | getting started                                  |
-| 1    |  9:20h / 14:30h | ES6 + Datatypes   | lab     |
-| 2    |  9:20h / 14:30h | Events + DOM | lab     |
-| 3    |  9:20h / 14:30h | Coding Principles + PE             | lab |
-| 4    |  9:20h / 14:30h | Async + Promises         | lab    |
+| 1    |  9:20h | Basics ES6 + Progressive Enhancement   | lab     |
+| 2    |  9:20h  | Events + DOM manipulation | lab     |
+| 3    |  9:20h  | Coding Principles + API's| lab |
+| 4    |  9:20h  | Async + Build Tools        | lab    |
 | 5    |  NaN   | assessment 1     | a1                              |
-| 6    | 14:30h | Code Review (PE)            | feedback (work on team application )                       |
-| 7    | 14:30h | Code Review (FED1)            | feedback (work on team application)                       |
+| 6    | 13:20h | Code Reviews           | lab (work on team application )                       |
+| 7    | 13:20h | Code Reviews            | lab (work on team application)                       |
 | 8    |  NaN   | assessment 2     | a2                            |
 
 > Check [`rooster.hva.nl`][class] for exact class dates
@@ -94,8 +97,8 @@ The below table breaks down the general time needed per week.
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| [Assessment 1][grading] (individual)|      50% |
-| [Assessment 2][grading] (team)      |      50% |
+| [Assessment 1][gradinga1] (individual)|      50% |
+| [Assessment 2][gradinga2] (team)      |      50% |
 | **Total**                           | **100%** |
 
 
@@ -130,7 +133,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 ## License
 
-[MIT][] © [Danny de Vries][dangit] & [Robert Spier][robgit], docs and images are [CC-BY-4.0][].
+[MIT][license] © [Danny de Vries][dangit] & [Robert Spier][robgit], docs and images are [CC-BY-4.0][license].
 
 [banner]: https://cmda-bt.github.io/fe-course-21-22/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
@@ -140,18 +143,20 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [robgit]: https://github.com/roberrrt-s
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
+[license]: https://github.com/cmda-bt/fe-course-21-22/blob/main/LICENSE
 [http]: https://tools.ietf.org/html/rfc2068
 [minor]: https://cmda.github.io/minor-everything-web/
 [track]: https://github.com/cmda-tt
-[gh]: https://github.com/cmda-be/course-18-19
+[gh]: https://github.com/cmda-bt/
 [examples]: /examples
 [teams]: http://teams.microsoft.com
-[brightspace]: https://dlo.mijnhva.nl/d2l/home/192551
+[brightspace]: https://dlo.mijnhva.nl/d2l/home/324291
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
 [synopsis]: #synopsis
-[grading]: /grading
+[gradinga1]: /grading/a1.md
+[gradinga2]: /grading/a2.md
 [bachelor]: https://www.cmd-amsterdam.nl/english/
 [faculty]: https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html
 [university]: https://www.amsterdamuas.com
