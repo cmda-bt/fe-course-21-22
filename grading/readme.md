@@ -67,7 +67,7 @@ Grades will be published and communicated in _Brightspace_ and/or _MS Teams_. We
 
 > After the first oral test you can request **viewing time** for additional feedback, this can be useful for a resit. Feel free to [contact your lecturer trough _MS Teams_](/readme#synopsis) if you want to do so.
 
-[banner]: https://cmda-bt.github.io/fe-course-21-22/assets/banner.svg
+[banner]: https://cmda-bt.github.io/fe-course-21-22/assets/banner-grading.svg
 [a1]: https://github.com/cmda-bt/fe-course-21-22/blob/main/grading/a1.md
 [a2]: https://github.com/cmda-bt/fe-course-21-22/blob/main/grading/a2.md
 [grading]: /grading/readme.md
