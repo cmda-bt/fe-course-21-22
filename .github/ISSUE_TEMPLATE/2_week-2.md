@@ -1,6 +1,6 @@
 ---
 name: Week 2
-about: Research client-side API's and implement DOM manipulation for your 
+about: Research client-side API's and implement DOM manipulation for your feature.
 title: Week 2
 labels: 'week-2, API'
 
