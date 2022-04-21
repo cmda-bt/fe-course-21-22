@@ -1,8 +1,8 @@
 ---
-name: Week 3
-about: Sync versus Async programming and Data fetching using external API's
-title: Week 3
-labels: 'week-3, async'
+name: Week 4
+about: Coding principles and advanced JavaScript design patterns
+title: Week 4
+labels: 'week-4, principles'
 
 ---
 
