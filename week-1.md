@@ -33,7 +33,7 @@ Before you start you'll probably want to refresh your JavaScript knowledge a bit
 #### Synopsis
 
 *  **Time**: 2:20h
-*  **Goals**: ES6 and Datatypes
+*  **Goals**: subgoal 1
 *  **Period**: Week 1
 
 Read some of the more in-depth JavaScript articles below:
@@ -78,11 +78,12 @@ Research progressive enhancement and document your idea of the component you wan
 **Additional resources**
 * [The Power of Progressive Enhancement by Andy Bell](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
 * [Progressive Enhancement Reading list by Quirksblog](https://www.quirksmode.org/blog/archives/2021/02/progressive_enh_1.html)
+* [Smashing Mag. (2009, 22 april). Progressive Enhancement: What It Is, And How To Use It?](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
 ## Hand-in
 
 1. **Push your changes:**  
-Commit your progess in your repository on GitHub under your username in your own matching-app repository.
+Commit your progress in your repository on GitHub under your username in your own matching-app repository.
 
 2. **Create an issue:**  
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
