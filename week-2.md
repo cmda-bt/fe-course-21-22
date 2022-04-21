@@ -1,12 +1,12 @@
 # Week 2
 
-> Always bet on JavaScript.
+> JavaScript is weird.
 >
-> — [**@elonmusk, inventor of Java**][quote-author]
+> — [**@normie-redditer**][quote-author]
 
 [![][inspiration-cover]][inspiration-link]
 
-> What the heck is the Event Loop Anyway? by [**@philip_roberts**][inspiration-author].
+> The Fermi Paradox by [**@nadiehbremer**][inspiration-author].
 
 ## Table of Contents
 
@@ -73,9 +73,9 @@ Mark this assignment as complete by opening an issue on our [GitHub issue tracke
 3. **Feedback:**  
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
-[quote-author]: https://beginnerjavascript.com
-[inspiration-cover]: assets/images/event-loop.png
-[inspiration-link]: http://latentflip.com/loupe/
+[quote-author]: https://www.reddit.com/r/ProgrammerHumor/comments/cpohb1/just_javascript_things/
+[inspiration-cover]: assets/images/fermi.png
+[inspiration-link]: https://www.visualcinnamon.com/portfolio/sciam-fermi-paradox/
 [inspiration-author]: https://twitter.com/philip_roberts?lang=en
 [issues]: https://github.com/cmda-bt/fe-course-21-22/issues/new/choose
 
