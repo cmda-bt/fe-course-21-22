@@ -33,7 +33,7 @@ Before you start you'll probably want to refresh your JavaScript knowledge a bit
 #### Synopsis
 
 *  **Time**: 2:20h
-*  **Goals**: ES6 and Datatypes
+*  **Goals**: subgoal 1
 *  **Period**: Week 1
 
 Read some of the more in-depth JavaScript articles below:
@@ -78,6 +78,18 @@ Research progressive enhancement and document your idea of the component you wan
 **Additional resources**
 * [The Power of Progressive Enhancement by Andy Bell](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
 * [Progressive Enhancement Reading list by Quirksblog](https://www.quirksmode.org/blog/archives/2021/02/progressive_enh_1.html)
+* [Smashing Mag. (2009, 22 april). Progressive Enhancement: What It Is, And How To Use It?](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
+
+## Hand-in
+
+1. **Push your changes:**  
+Commit your progress in your repository on GitHub under your username in your own matching-app repository.
+
+2. **Create an issue:**  
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
+
+3. **Feedback:**  
+Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 
 
@@ -90,18 +102,6 @@ Research progressive enhancement and document your idea of the component you wan
 [what-js]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md
 [node-npm]: https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager
 
-[npmjs]: https://www.npmjs.com/
-[camelcase]: https://www.npmjs.com/package/camelcase
-[lodash]: https://www.npmjs.com/package/lodash
-[nodeschool]: https://nodeschool.io/
-[intro-npm]: https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
-[global]: https://nodejs.dev/npm-global-or-local-packages
-[issues]: https://github.com/cmda-bt/be-course-21-22/issues/new/choose
-[fe-be]: https://zellwk.com/blog/frontend-vs-backend/
-[github-node-gitignore]: https://github.com/github/gitignore/blob/master/Node.gitignore
-
-[videonode]: https://www.youtube.com/watch?v=ZpiHUOM_Y-0
-[videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
-[videopackage]: https://www.youtube.com/watch?v=shSB9BbK1gU
+[issues]: https://github.com/cmda-bt/fe-course-21-22/issues/new/choose
 
 [lab1]: /slides/fe_lab-1-21-22.pdf

@@ -15,20 +15,9 @@ This getting started guide will get you up and running with all the software and
 
 ## Prerequisite
 
-This guide assumes you already followed the getting started guide from project-tech and Back-end. So you should already have a Text Editor, GitHub account and configured Git.
+This guide assumes you already followed the getting started guide from Project-Tech and Back-end. So you should already have a Text Editor, GitHub account and configured Git.
 
-Furthermore, for the first lesson, please read the following articles:
-
-* [W3Schools. (2022). JavaScript Data Types.](https://www.w3schools.com/js/js_datatypes.asp)
-* [Hayani, S. (2020, 24 april). JavaScript ES6 — write less, do more.](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
-
-## Text Editor
-
-For this course you won't need anything other then a Code Editor and a Web Browser. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [VSCode](https://code.visualstudio.com/) is our recommended choice but there are others.  [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) are both also good choices. 
-
-[🎦 _Watch a video_ on how to install Text Editors.][videotext]
-
-> Take some time to [learn the interface and features of VSCode][learnvs]. If you know your way around the interface, coding will be easier. Feeling comfortable with your tools is very important when writing code.
+During front-end (and Blok Tech in general) we work with JavaScript alot. If your knowledge of the basics of programming and JavaScript has faded a bit, it is good to refresh that knowledge. For example, you can do the [free JavaScript module on FreeCodeCamp](https://www.freecodecamp.org) or the [JavaScript30 course from Wes Bos](https://javascript30.com) to get up and running.
 
 ## Web Browser
 
