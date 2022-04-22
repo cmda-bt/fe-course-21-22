@@ -79,7 +79,7 @@ This assessment focusses on all [main goals][mg] of this course: **you improve y
     </tr>
     <tr>
       <th align="center" scope="row">Front-end</th>
-      <td align="center">Your HTML, CSS and JavaScript contains errors and is messy (divs!???)</td>
+      <td align="center">Your HTML, CSS and JavaScript contain errors and is messy (divs!???)</td>
       <td align="center">Your HTML, CSS and JavaScript display some form of semantic meaning, but are still all over the place</td>
       <td align="center">Your HTML is semantic and appropriate elements have been chosen. Your CSS is using some sort of structure and uses CSS variables. Your JavaScript is mostly consistent and structured</td>
       <td align="center">Your HTML, CSS and JavaScript display high levels of skill and learning. Other developers would love to build on your work</td>

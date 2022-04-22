@@ -5,7 +5,7 @@
 ### Resources used in previous courses
 
 *   Duckett, Jon. _HTML and CSS_. John Wiley & Sons, 2011
-    (**internetstandaarden**)    
+    (**internetstandaarden**)
 *   Duckett, Jon. _JavaScript & jQuery_. John Wiley & Sons, 2015
     (**inleiding programmeren**)
 

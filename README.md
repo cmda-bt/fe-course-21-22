@@ -81,8 +81,8 @@ The below table breaks down the general time needed per week.
 | 0    |  NaN   | getting started  | getting started                                  |
 | 1    |  9:20h / 14:30h | ES6 + Datatypes   | lab     |
 | 2    |  9:20h / 14:30h | Events + DOM | lab     |
-| 3    |  9:20h / 14:30h | Coding Principles + PE             | lab |
-| 4    |  9:20h / 14:30h | Async + Promises         | lab    |
+| 3    |  9:20h / 14:30h | Async + Promises | lab |
+| 4    |  9:20h / 14:30h | Coding Principles + PE| lab    |
 | 5    |  NaN   | assessment 1     | a1                              |
 | 6    | 14:30h | Code Review (PE)            | feedback (work on team application )                       |
 | 7    | 14:30h | Code Review (FED1)            | feedback (work on team application)                       |
