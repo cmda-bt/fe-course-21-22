@@ -82,6 +82,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [lab3]: /slides/fe_lab-3-21-22.pdf
 
 [quote-author]: https://twitter.com/bendhalpern/status/578925947245633536?lang=en
-[inspiration-cover]: assets/images/fermi.png
+[inspiration-cover]: assets/images/async.png
 [inspiration-link]: https://www.youtube.com/watch?v=9YkUCxvaLEk
 [inspiration-author]: https://twitter.com/wesbos
+[issues]: https://github.com/cmda-bt/fe-course-21-22/issues/new/choose
