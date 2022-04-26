@@ -1,5 +1,13 @@
 # Week 3
 
+> Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to
+>
+> — [**@bendhalpern**][quote-author]
+
+[![][inspiration-cover]][inspiration-link]
+
+> dotJS 2017 Async + Await by [**@wesbos**][inspiration-author].
+
 ## Table of Contents
 
 * [Slides](#slides)
@@ -11,38 +19,69 @@
 
 ## Theory
 
-In this lesson, we're going to explore the several "good practices" within JavaScript, or programming general. We'll read about good defaults, naming and coding styles. In addition, we'll dive deeper in some more complex concepts within JavaScript. We'll handle scope, context, hoisting and closures. All of these are more universal than just JavaScript, and are applicable in several other languages if you wish to study more. Finally, we'll work on implementing the principle of Progressive Enhancement in a form on codepen.
+In this lesson, we're going to explore the difference between sync and async. We'll learn how promises work, and how we can fetch() a URL to retrieve data from an endpoint. We dive deeper in the syntax of Async/Await, and learn how this is basically syntactic sugar on top of how regular promises work.
+
+## Assignments
+
+### Sync vs Async
+
+![Async banner](assets/banners/async.jpg)
+> Understand how sync versus async programming works
 
 #### Synopsis
 
-*  **Time**: 2:20h
-*  **Goals**: Coding principles & concepts
-*  **Period**: Week 3
+*  **Time**: 4:00h
+*  **Goals**: Subgoal 5
+*  **Period**: Before week 4
 
 #### In-class exercises
 
-* Conduct research regarding your own use of coding principles. What principles do you use already? Which ones would you like to implement in your own projects?
-* Learn more about JavaScript concepts as scope, context, hoisting and closures. These should help you to write "better" code and evade errors.
-* Apply three layers of Progressive Enhancement on a [blank form in codepen][codepen]. Apply HTML properties, CSS pseudo selectors and your new knowledge of events to improve the user experience.
-
-#### Homework
-
-Continue working on your functionality. Start updating your wiki on the type of Progressive Enhancement you wish to apply. Next week, we'll be checking up on those wiki's. Also try and implement the first layers (HTML and CSS) this week.
-
-#### Assignments
-
-**Read for week 4:**
-Read these articles regarding asynchronous programming, promises and async/await
+Finish the in-class exercises about sync versus async and understand how promises and async programming work.
 
 * [MDN. (2022, 22 januari) General asynchronous programming concepts.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
 * [MDN. (2022, 22 januari) Introducing asynchronous JavaScript.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 * [Jake Archibald (2021, 18 januari) JavaScript Promises: an introduction](https://web.dev/promises/)
-* [OpenJS Foundation (2021, 29 august) Modern Asynchronous JavaScript with Async and Await](https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await)
 
-**Additional resources**
+### Fetch
 
-* [Max Ogden (2016, 4 february) Callback hell](http://callbackhell.com/)
-* [Alberto Gimeno (2018, 14 november) Promise chaining is dead. Long live async/await](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc/)
+![fetch banner](assets/banners/fetch.jpg)
+> Understand how API's work and how to fetch data using async programming
+
+#### Synopsis
+
+*  **Time**: 6:00h
+*  **Goals**: Subgoal 5
+*  **Period**: Before week 4
+
+#### In-class exercises
+
+Finish the in-class exercises about API's. Research third-party (data) API's that you can use in your project and see what authentication they use.
+
+#### Assignment
+
+Implement the API you've researched. Use async programming to fetch data from the API client-side to enhance data in your interface and application. You can also continue working on any part of your progressive enhancement.
+
+**Read for week 4:**
+Read these articles regarding coding principles & progressive enhancement
+
+* [Mandwarya, A. (2019, 4 februari). Scope & hoisting in JavaScript.](https://hackernoon.com/scope-hoisting-in-javascript-19b991babc4f)
+* [Chisholm, K. (2021, 10 februari). Understanding Context in JavaScript - Object Literals.](https://blog.kevinchisholm.com/javascript/context-object-literals/)
+
+
+## Hand-in
+
+1. **Push your changes:**  
+Commit your progress in your repository on GitHub under your username in your own matching-app repository.
+
+2. **Create an issue:**  
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-3.md` with the correct information. Include what progress you made in the description of the issue.
+
+3. **Feedback:**  
+Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 [lab3]: /slides/fe_lab-3-21-22.pdf
-[codepen]: https://codepen.io/robertspier/pen/mdqqKEY
+
+[quote-author]: https://twitter.com/bendhalpern/status/578925947245633536?lang=en
+[inspiration-cover]: assets/images/fermi.png
+[inspiration-link]: https://www.youtube.com/watch?v=9YkUCxvaLEk
+[inspiration-author]: https://twitter.com/wesbos

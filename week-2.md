@@ -36,14 +36,14 @@ In this lesson, we're diving deeper in the world of Web APIs. We'll explore how 
 
 #### In-class exercises
 
-Finish the in-class exercises about DOM manipulation and events. Experiment and try out a couple of different events you can listen for.
+Finish the in-class exercises about DOM manipulation and events. Experiment and try out a couple of different events you can listen for. Work on [the codepen form exercise][codepen].
 
 #### Assignment
 Add any design patterns that need JavaScript interaction (events and DOM) in the interface of your features (dropdowns, filters, menu's etc.). Additionally continue working on your front-end of your feature, start building the HTML and CSS according to the principles you've learned in FED1 and Internetstandaarden. 
 
-### API's
+### Web API's
 ![Basics Banner](assets/banners/api.jpg)
-> Research client-side web API's and third party data API's that can be used for your progressive enhancement
+> Research client-side web API's and that can be used for your progressive enhancement
 
 #### Synopsis
 
@@ -53,14 +53,7 @@ Add any design patterns that need JavaScript interaction (events and DOM) in the
 
 #### Assignment
 
-Research different native web api's and figure out which API you can use for your progressive enhancement. Additionally research a third party (data api) that has data you can use for your enhancement. Document what API's you've researched, why you choose a particular API and how the implementation works in your wiki. If you decided, you can already start with implementing and writing code for the usage of that API.
-
-
-**Read for week 3:**
-Read these articles regarding coding principles & progressive enhancement
-
-* [Mandwarya, A. (2019, 4 februari). Scope & hoisting in JavaScript.](https://hackernoon.com/scope-hoisting-in-javascript-19b991babc4f)
-* [Chisholm, K. (2021, 10 februari). Understanding Context in JavaScript - Object Literals.](https://blog.kevinchisholm.com/javascript/context-object-literals/)
+Research different native web api's and figure out which API you can use for your progressive enhancement. Document what API's you've researched, why you choose a particular API and how the implementation works in your wiki. If you decided, you can already start with implementing and writing code for the usage of that API.
 
 ## Hand-in
 
@@ -78,6 +71,8 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-link]: https://www.visualcinnamon.com/portfolio/sciam-fermi-paradox/
 [inspiration-author]: https://twitter.com/philip_roberts?lang=en
 [issues]: https://github.com/cmda-bt/fe-course-21-22/issues/new/choose
+
+[codepen]: https://codepen.io/robertspier/pen/mdqqKEY
 
 
 [lab2]: /slides/fe_lab-2-21-22.pdf
