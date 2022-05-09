@@ -66,8 +66,8 @@ Implement the API you've researched. Use async programming to fetch data from th
 **Read for week 4:**
 Read these articles regarding coding principles & progressive enhancement
 
-* [MDN. Client side Web APi's Introduction[(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-* [Public API's on GitHub(https://github.com/public-apis/public-apis)
+* [MDN. Client side Web APi's Introduction](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+* [Public API's on GitHub](https://github.com/public-apis/public-apis)
 * [Codepen Example: Pasta Promise by Laurens Aarnoudse](https://codepen.io/Razpudding/pen/RJZeJO)
 * [Codepen Example: Fetch GitHub API](https://codepen.io/dandevri/pen/yLPdEKG)
 
