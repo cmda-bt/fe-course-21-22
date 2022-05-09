@@ -40,7 +40,9 @@ Finish the in-class exercises about sync versus async and understand how promise
 
 * [MDN. (2022, 22 januari) General asynchronous programming concepts.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
 * [MDN. (2022, 22 januari) Introducing asynchronous JavaScript.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
-* [Jake Archibald (2021, 18 januari) JavaScript Promises: an introduction](https://web.dev/promises/)
+* [Eloquent JavaScript) Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+* [Event Loop Visualizer](https://www.jsv9000.app)
+* [Wes Bos Async / Await and Promises notes](https://wesbos.com/javascript/12-advanced-flow-control/67-promises)
 
 ### Fetch
 
@@ -64,8 +66,10 @@ Implement the API you've researched. Use async programming to fetch data from th
 **Read for week 4:**
 Read these articles regarding coding principles & progressive enhancement
 
-* [Mandwarya, A. (2019, 4 februari). Scope & hoisting in JavaScript.](https://hackernoon.com/scope-hoisting-in-javascript-19b991babc4f)
-* [Chisholm, K. (2021, 10 februari). Understanding Context in JavaScript - Object Literals.](https://blog.kevinchisholm.com/javascript/context-object-literals/)
+* [MDN. Client side Web APi's Introduction[(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+* [Public API's on GitHub(https://github.com/public-apis/public-apis)
+* [Codepen Example: Pasta Promise by Laurens Aarnoudse](https://codepen.io/Razpudding/pen/RJZeJO)
+* [Codepen Example: Fetch GitHub API](https://codepen.io/dandevri/pen/yLPdEKG)
 
 
 ## Hand-in
