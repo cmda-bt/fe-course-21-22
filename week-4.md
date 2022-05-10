@@ -19,9 +19,27 @@
 
 ## Theory
 
-In this lesson, we're going to explore the several "good practices" within JavaScript, or programming general. We'll read about good defaults, naming and coding styles. In addition, we'll dive deeper in some more complex concepts within JavaScript. We'll handle scope, context, hoisting and closures. All of these are more universal than just JavaScript, and are applicable in several other languages if you wish to study more. 
+In this lesson, we're going to explore the several "good practices" within JavaScript, or programming general. We'll read about good defaults, naming and coding styles. In addition, we'll look at higher order functions to loop and iterate over datasets.
 
 ## Assignments
+
+### Transform
+
+![Transform banner](assets/banners/transform.jpg)
+> Learn more about looping, iterating and higher-order function for datasets
+
+#### Synopsis
+
+*  **Time**: 6:00h
+*  **Goals**: subgoal 1, 5
+*  **Period**: Before week-5
+
+#### Assignments
+
+Finish the in-class exercises about higher-order functions and the array cardio. Apply the concepts and principles on your own enhancement, you might want to transform the dataset you got from last week to filter / iterate over the data you will use in your application.
+
+* [Wes Bos Array Cardio Day 1](https://www.youtube.com/watch?v=HB1ZC7czKRs)
+* [Wes Bos Array Cardio Day 2](https://www.youtube.com/watch?v=QNmRfyNg1lws)
 
 ### Principles
 
@@ -31,7 +49,7 @@ In this lesson, we're going to explore the several "good practices" within JavaS
 #### Synopsis
 
 *  **Time**: 6:00h
-*  **Goals**: subgoal 1, 
+*  **Goals**: subgoal 1 
 *  **Period**: Before week-5
 
 #### Assignments
@@ -39,6 +57,8 @@ In this lesson, we're going to explore the several "good practices" within JavaS
 Conduct research regarding your own use of coding principles. What principles do you use already? Which ones would you like to implement in your own projects? Learn more about JavaScript concepts as scope, context, hoisting and closures. These should help you to write "better" code and evade errors.
 
 Additionally continue working on your front-end and progressive enhancement. Also finish your wiki and research to PE and JavaScript concept. Next week A1 will take place.
+
+* [Clean Code JavaScript GitHub repo](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Hand-in
 
