@@ -6,7 +6,7 @@ labels: 'week-3, async'
 
 ---
 
-# DOM Manipulation
+# Async Await
 
 ## Name
 <!-- Add your name here-->
